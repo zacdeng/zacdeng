@@ -1,4 +1,4 @@
-### Hey 👋, I am Zachary <img src="https://i.loli.net/2020/07/14/y2oaANRLjTYSpG1.gif" width="31px">.
+### Hey 👋, I am Zachary <img src="https://i.loli.net/2020/07/14/y2oaANRLjTYSpG1.gif" width="34px">.
 
 [![Gmail Badge](https://img.shields.io/badge/-zacdeng0720@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:zacdeng0720@gmail.com)](mailto:zacdeng0720@gmail.com)
 
