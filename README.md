@@ -4,7 +4,7 @@
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width='400"' />
 
-A junior student from Northeastern University 🏫 and now studying in Robot Science and Engineering 🤖.
+A junior student 👨‍💻 from Northeastern University 🏫 and now studying in Robot Science and Engineering 🤖.
  
 - 😄 Any questions about my repositories are welcome！
 - 🏫 Undergraduate School: Northeastern University
