@@ -11,4 +11,6 @@
 - 🌱 Major: Robot Science and Engineering
 - 📫 How to reach me: zacdeng0720@gmail.com
 
+![github stats](https://github-readme-stats.vercel.app/api?username=zacdeng&show_icons=true)
+
 ![](https://i.loli.net/2020/07/14/n6lhLc5WiSRvEgI.gif)
