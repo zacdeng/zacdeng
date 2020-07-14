@@ -1,4 +1,4 @@
-### Hey 👋, I am Zachary 😀.
+### Hey 👋, I am Zachary <a href="https://www.srmist.edu.in/"> <b>SRM Institute of Science and technology</b>, Kattankulatur</a>. <br>.
 
 [![Gmail Badge](https://img.shields.io/badge/-zacdeng0720@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:zacdeng0720@gmail.com)](mailto:zacdeng0720@gmail.com)
 <a href="https://github.com/zacdeng"><img alt="GitHub" src="https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub+Followers&labelColor=282c34&color=181717&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dzacdeng&longCache=true"/></a>
