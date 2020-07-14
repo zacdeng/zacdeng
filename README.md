@@ -1,5 +1,7 @@
-### Hi. I'm Zac, a student studying in Robot Science and Engineering 👋
+### Hi 👋
 
+ I am Zachary 😀. I am a junior student from Northeastern University and now studying in Robot Science and Engineering.
+ 
 - 😄 Any questions about my repositories are welcome！
 - 🌱 Major: Robot Science and Engineering
 - 🏫 Undergraduate School: Northeastern University
