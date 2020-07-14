@@ -11,6 +11,8 @@
 - 🌱 Major: Robot Science and Engineering
 - 📫 How to reach me: zacdeng0720@gmail.com
 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ![github stats](https://github-readme-stats.vercel.app/api?username=zacdeng&show_icons=true)
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=SulthanNK.SulthanNK) 
