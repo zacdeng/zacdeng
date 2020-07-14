@@ -1,10 +1,10 @@
-### Hey 👋, I am Zachary <img src="https://i.loli.net/2020/07/14/y2oaANRLjTYSpG1.gif" width="34px">.
+### Hey 👋, I am Zachary 😀.
 
 [![Gmail Badge](https://img.shields.io/badge/-zacdeng0720@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:zacdeng0720@gmail.com)](mailto:zacdeng0720@gmail.com)
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width='400"' />
 
- A junior student from Northeastern University 🏫 and now studying in Robot Science and Engineering 🤖.
+ <img src="https://i.loli.net/2020/07/14/y2oaANRLjTYSpG1.gif" width="34px"> A junior student from Northeastern University 🏫 and now studying in Robot Science and Engineering 🤖.
  
 - 😄 Any questions about my repositories are welcome！
 - 🏫 Undergraduate School: Northeastern University
