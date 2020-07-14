@@ -1,8 +1,6 @@
 ### Hey 👋, I am Zachary <img src="https://i.loli.net/2020/07/14/y2oaANRLjTYSpG1.gif" width="31px">.
 
 [![Gmail Badge](https://img.shields.io/badge/-zacdeng0720@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:zacdeng0720@gmail.com)](mailto:zacdeng0720@gmail.com)
-<a href="https://github.com/zacdeng"><img alt="GitHub" src="https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub+Followers&labelColor=282c34&color=181717&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dzacdeng&longCache=true"/></a>
-![github visitors](https://visitor-badge.glitch.me/badge?page_id=SulthanNK.SulthanNK)
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width='400"' />
 
@@ -24,3 +22,5 @@
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=zacdeng&show_icons=true)
 
+<a href="https://github.com/zacdeng"><img alt="GitHub" src="https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub+Followers&labelColor=282c34&color=181717&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dzacdeng&longCache=true"/></a>
+![github visitors](https://visitor-badge.glitch.me/badge?page_id=SulthanNK.SulthanNK)
