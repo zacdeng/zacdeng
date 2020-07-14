@@ -1,4 +1,4 @@
-### Hi 👋
+### Hey 👋, I am Zachary 😀.
 
 [![Gmail Badge](https://img.shields.io/badge/-zacdeng0720@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:zacdeng0720@gmail.com)](mailto:zacdeng0720@gmail.com)
 <a href="https://github.com/zacdeng"><img alt="GitHub" src="https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub+Followers&labelColor=282c34&color=181717&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dzacdeng&longCache=true"/></a>
@@ -6,14 +6,15 @@
 
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='150"'>
 
- I am Zachary 😀, a junior student from Northeastern University 🏫 and now studying in Robot Science and Engineering 🤖.
+ A junior student from Northeastern University 🏫 and now studying in Robot Science and Engineering 🤖.
  
 - 😄 Any questions about my repositories are welcome！
 - 🏫 Undergraduate School: Northeastern University
 - 🌱 Major: Robot Science and Engineering
 - 📫 How to reach me: zacdeng0720@gmail.com
 
-**Languages and Tools:**  
+##### Languages and Tools:
+
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
