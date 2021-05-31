@@ -2,22 +2,24 @@
 
 [![Gmail Badge](https://img.shields.io/badge/-zacdeng0720@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:zacdeng0720@gmail.com)](mailto:zacdeng0720@gmail.com)
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width='400"' />
+A senior student from <a href="https://www.neu.edu.cn/">Northeastern University(China)</a> and now studying in Robot Science and Engineering. I will obtain my master's degree of Computer Engineering from <a href="https://www.northwestern.edu/">Northwestern University(US)</a> in 2 years.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 
-A junior student 👨‍💻 from Northeastern University 🏫 and now studying in Robot Science and Engineering 🤖.
- 
-- 😄 Any questions about my repositories are welcome！
-- 🏫 Undergraduate School: Northeastern University
-- 🌱 Major: Robot Science and Engineering
-- 📃 More information please see [Resume](https://zacdeng.github.io)
-- 📫 How to reach me: zacdeng0720@gmail.com
+😄 Any questions about my repositories are welcome！
 
-##### Languages and Tools:
+🏫 Northeastern University（CN, undergraduate）
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+🤖 Major: Robot Science and Engineering
+
+👨‍🎓  Northwestern University（US, graduate）
+
+👨‍💻 Major: Computer Engineering
+
+📃 More information please see [Resume](https://zacdeng.github.io/resume/)
+
+📫 How to reach me: zacdeng0720@gmail.com
+
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
