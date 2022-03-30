@@ -6,9 +6,9 @@ A graduate student of  <a href="https://www.northwestern.edu/">Northwestern Univ
 
 😄 Any questions about my repositories are welcome！
 
-🏫 Northeastern University（CN, BE）
+🏫 [Northeastern University](http://english.neu.edu.cn/)（CN, BE）
 
-🤖 Major: Robot Science and Engineering
+🤖 Major: [Robot Science and Engineering](http://www.rse.neu.edu.cn/main.htm)
 
 👨‍🎓  Northwestern University（US, MS）
 
