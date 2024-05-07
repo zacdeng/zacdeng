@@ -2,6 +2,8 @@
 
 [![Gmail Badge](https://img.shields.io/badge/-zacdeng0720@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:zacdeng0720@gmail.com)](mailto:zacdeng0720@gmail.com)
 
+A full stack software developer based in Chicago.
+
 A graduate student of  <a href="https://www.northwestern.edu/">Northwestern University(US)</a> and major in <a href="https://www.mccormick.northwestern.edu/electrical-computer/academics/graduate/masters/computer-engineering.html">Computer Engineering</a>.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 
 😄 Any questions about my repositories are welcome！
@@ -18,7 +20,7 @@ A graduate student of  <a href="https://www.northwestern.edu/">Northwestern Univ
 
 📫 How to reach me: zacdeng0720@gmail.com
 
-👨🏻‍💻 Blog: [Zachary Deng's Blog](https://zacdeng.github.io/)
+👨🏻‍💻 Blog: [Zach Deng's Blog](https://zacdeng.github.io/)
 
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
