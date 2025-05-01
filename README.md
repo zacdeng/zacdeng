@@ -1,8 +1,8 @@
-### Hey 👋, I am Zachary 😀.
+### Hey 👋, I am Zach 😀.
 
 [![Gmail Badge](https://img.shields.io/badge/-zacdeng0720@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:zacdeng0720@gmail.com)](mailto:zacdeng0720@gmail.com)
 
-A full stack software developer based in Chicago.
+A full-stack software engineer based in Chicago.
 
 A graduate student of  <a href="https://www.northwestern.edu/">Northwestern University(US)</a> and major in <a href="https://www.mccormick.northwestern.edu/electrical-computer/academics/graduate/masters/computer-engineering.html">Computer Engineering</a>.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 
